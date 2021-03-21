@@ -3,3 +3,4 @@
 "# App_bars_top" 
 "# Backdrop" 
 "# Banners" 
+"# Bottom_navigation" 
