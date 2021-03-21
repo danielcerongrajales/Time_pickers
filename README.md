@@ -11,3 +11,4 @@
 "# Chips" 
 "# Data_tables" 
 "# Date_pickers" 
+"# Dialogs" 
