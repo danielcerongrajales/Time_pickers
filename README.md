@@ -24,3 +24,4 @@
 "# Sheets_side" 
 "# Sliders" 
 "# Snackbars" 
+"# Switches" 
