@@ -25,3 +25,4 @@
 "# Sliders" 
 "# Snackbars" 
 "# Switches" 
+"# Tabs" 
