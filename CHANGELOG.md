@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/danielcerongrajales/Time_pickers/compare/v1.1.0...v1.2.0) (2021-04-10)
+
+
+### Features
+
+*  first initial version android project ([168b84c](https://github.com/danielcerongrajales/Time_pickers/commit/168b84c4d54d0b3d3e1cd5086649350bab72c31a))
+
 ## [1.1.0](https://github.com/danielcerongrajales/Time_pickers/compare/v1.0.0...v1.1.0) (2021-03-24)
 
 
